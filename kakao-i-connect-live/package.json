@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@remotemonster/sdk": "^2.7.3",
     "@types/react-router-dom": "5.3.3",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",

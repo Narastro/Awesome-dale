@@ -1,4 +1,5 @@
 import { useState } from "react";
+import "./config/config";
 
 function App() {
   const [count, setCount] = useState(0);
